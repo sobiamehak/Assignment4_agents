@@ -1,6 +1,6 @@
 
 
-from agents import Agent, AsyncOpenAI, OpenAIChatCompletionsModel, RunConfig, Runner, set_tracing_disabled, input_guardrail, InputGuardrail
+from agents import Agent, AsyncOpenAI, OpenAIChatCompletionsModel, RunConfig, Runner, set_tracing_disabled,
 from agents import RunContextWrapper, function_tool
 from dotenv import load_dotenv
 from pydantic import BaseModel
